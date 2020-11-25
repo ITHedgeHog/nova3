@@ -30,6 +30,9 @@ module.exports = {
             screens: {
                 standalone: { raw: '(display-mode: standalone)' }
             },
+            screens: {
+                standalone: { raw: '(display-mode: standalone)' }
+            },
             spacing: {
                 'safe-top': 'env(safe-area-inset-top)',
                 'safe-bottom': 'env(safe-area-inset-bottom)',
